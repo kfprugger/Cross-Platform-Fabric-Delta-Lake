@@ -1,6 +1,6 @@
 # End to End Azure Databricks, Microsoft Fabric, and Power BI Clinical Notes Walkthrough
 
-In this guide, you'll find how to build out a demo Delta Lake originating in Azure Databricks, linking that new Delta Lake into Microsoft Fabric (shortcut), make changes in Fabric that are reflected in Delta Lake, and finally create a simple AI-driven Power BI dashboard!
+In this guide, you'll find how to build out a demo Delta Lake originating in Azure Databricks, linking that new Delta Lake into Microsoft Fabric (shortcut), make changes in Fabric that are reflected in Delta Lake across both platforms, and finally create a simple AI-driven Power BI dashboard!
 
 This repo provides everything you need to setup a working cross-platform demo between Azure Databricks, Fabric, and Power BI (now part of Fabric) including sample data to get started.
 
