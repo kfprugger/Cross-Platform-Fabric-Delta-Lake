@@ -87,7 +87,7 @@ This repo provides everything you need to setup a working cross-platform demo be
 
 3. And make sure that "mrn" is added to the dataset. While we're here, let's remove the aggregation since Power BI detected it was an integer value column from our Data Science work:
 
-   ![PBI Table edit](./images/pbi_table_edit.png)
+   ![PBI Table edit](./images/PBI_table_edit.png)
 
 4. Go back to your workspace and select the dataset you just created and you'll be presented with the following screen. Select down chevron on the **+ Create a report** button and select Auto-create. 
 
